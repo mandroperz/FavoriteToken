@@ -6,7 +6,7 @@ contract FavoriteToken {
     string public favorite_token2 = "eth";
     string public favorite_token3 = "bnb";
     string public favorite_token4 = "sol";
-    string public favorite_token5 = "xrp";
+    string public favorite_token5 = "doge";
 
     function setFavoriteToken(string memory _favorite_token) public {
         favorite_token = _favorite_token;
