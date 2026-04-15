@@ -8,6 +8,7 @@ contract FavoriteToken {
     string public favorite_token4 = "sol";
     string public favorite_token5 = "doge";
     string public favorite_token6 = "bnb";
+    string public favorite_token7 = "hype";
 
     function setFavoriteToken(string memory _favorite_token) public {
         favorite_token = _favorite_token;
