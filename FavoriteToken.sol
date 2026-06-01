@@ -40,4 +40,7 @@ contract FavoriteToken {
         favorite_token7 = _favorite_token;
     }
 
+    function setFavoriteToken8(string memory _favorite_token) public {
+        favorite_token8 = _favorite_token;
+    }
 }
