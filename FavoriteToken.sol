@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-//to do 59
+//to do 60
 contract FavoriteToken {
     string public favorite_token = "btc";
     string public favorite_token2 = "eth";
